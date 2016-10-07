@@ -18,5 +18,17 @@
  * @return {boolean}
  */
 var isBalanced = function(root) {
-
+    return maxDepth(root) !== -1;
 };
+function maxDepth(root) {
+    if(root === null){
+        return 0;
+    }
+    var right = maxDepth(root.right);
+    var left = maxDepth(root.left);
+    if(right === -1 || left === -1 || Math.abs(right-left)>1){
+        return -1;
+    }
+
+    return Math.max(right, left)+1;
+}
