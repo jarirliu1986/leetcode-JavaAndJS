@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a6e0343-190c-447e-b06a-6c08b2bef16f" name="Default" comment="" />
+    <list default="true" id="2a6e0343-190c-447e-b06a-6c08b2bef16f" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="LeetCode-JS.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,17 +27,27 @@
         <entry file="file://$PROJECT_DIR$/test.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="280">
-              <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="225. Implement Stack using Queues.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/225. Implement Stack using Queues.js">
+      <file leaf-file-name="349. Intersection of Two Arrays.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/349. Intersection of Two Arrays.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1624">
-              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+            <state relative-caret-position="504">
+              <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="350. Intersection of Two Arrays II.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/350. Intersection of Two Arrays II.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="699">
+              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -82,7 +94,6 @@
         <option value="$PROJECT_DIR$/168. Excel Sheet Column Title.js" />
         <option value="$PROJECT_DIR$/171. Excel Sheet Column Number.js" />
         <option value="$PROJECT_DIR$/226. Invert Binary Tree.js" />
-        <option value="$PROJECT_DIR$/test.js" />
         <option value="$PROJECT_DIR$/389. Find the Difference.js" />
         <option value="$PROJECT_DIR$/278. First Bad Version.js" />
         <option value="$PROJECT_DIR$/387. First Unique Character in a String.js" />
@@ -91,6 +102,10 @@
         <option value="$PROJECT_DIR$/198. House Robber.js" />
         <option value="$PROJECT_DIR$/232. Implement Queue using Stacks.js" />
         <option value="$PROJECT_DIR$/225. Implement Stack using Queues.js" />
+        <option value="$PROJECT_DIR$/28. Implement strStr().js" />
+        <option value="$PROJECT_DIR$/test.js" />
+        <option value="$PROJECT_DIR$/349. Intersection of Two Arrays.js" />
+        <option value="$PROJECT_DIR$/350. Intersection of Two Arrays II.js" />
       </list>
     </option>
   </component>
@@ -100,10 +115,10 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="613" />
-    <option name="y" value="44" />
-    <option name="width" value="2658" />
-    <option name="height" value="1712" />
+    <option name="x" value="-16" />
+    <option name="y" value="-16" />
+    <option name="width" value="3216" />
+    <option name="height" value="1744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -130,6 +145,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -151,7 +167,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -162,11 +177,8 @@
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="nodejs_interpreter_path" value="C:\Program Files\nodejs\node" />
   </component>
-  <component name="RunManager" selected="Node.js.202. Happy Number.js">
+  <component name="RunManager" selected="Node.js.350. Intersection of Two Arrays II.js">
     <configuration default="false" name="test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="test.js" working-dir="$PROJECT_DIR$">
-      <method />
-    </configuration>
-    <configuration default="false" name="171. Excel Sheet Column Number.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="171. Excel Sheet Column Number.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
     <configuration default="false" name="389. Find the Difference.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="389. Find the Difference.js" working-dir="$PROJECT_DIR$">
@@ -176,6 +188,9 @@
       <method />
     </configuration>
     <configuration default="false" name="202. Happy Number.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="202. Happy Number.js" working-dir="$PROJECT_DIR$">
+      <method />
+    </configuration>
+    <configuration default="false" name="350. Intersection of Two Arrays II.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="350. Intersection of Two Arrays II.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -233,18 +248,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Node.js.test.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.171. Excel Sheet Column Number.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.389. Find the Difference.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.387. First Unique Character in a String.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.202. Happy Number.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.389. Find the Difference.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.387. First Unique Character in a String.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.202. Happy Number.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.350. Intersection of Two Arrays II.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.202. Happy Number.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.387. First Unique Character in a String.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.389. Find the Difference.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.test.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.171. Excel Sheet Column Number.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.350. Intersection of Two Arrays II.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.test.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.202. Happy Number.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.387. First Unique Character in a String.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.389. Find the Difference.js" />
       </list>
     </recent_temporary>
   </component>
@@ -270,22 +285,27 @@
       <workItem from="1475938065263" duration="645000" />
       <workItem from="1476053839047" duration="11245000" />
       <workItem from="1476111459690" duration="14726000" />
-      <workItem from="1476197192039" duration="13289000" />
+      <workItem from="1476197192039" duration="13335000" />
+      <workItem from="1476298333754" duration="1460000" />
+      <workItem from="1476366311100" duration="2259000" />
+      <workItem from="1476384973557" duration="771000" />
+      <workItem from="1476819299841" duration="603000" />
+      <workItem from="1477166544947" duration="3503000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73406000" />
+    <option name="totallyTimeSpent" value="82048000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="613" y="44" width="2658" height="1712" extended-state="0" />
+    <frame x="-16" y="-16" width="3216" height="1744" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19535415" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16017587" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36065573" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31010452" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -317,31 +337,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/226. Invert Binary Tree.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#43#182#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/165. Compare Version Numbers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/144. Binary Tree Preorder Traversal.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="952">
@@ -612,7 +607,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="672">
           <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -620,9 +614,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="26" selection-end-column="1" />
-          <folding>
-            <element signature="e#43#182#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -630,7 +621,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="249">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="21" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -638,7 +628,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="417">
           <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -646,7 +635,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="672">
           <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -654,7 +642,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="753">
           <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -662,7 +649,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="30" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -670,7 +656,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="193">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="18" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -678,6 +663,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="392">
           <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/225. Implement Stack using Queues.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/28. Implement strStr().js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="36" />
           <folding />
         </state>
       </provider>
@@ -685,15 +684,23 @@
     <entry file="file://$PROJECT_DIR$/test.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
-          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/225. Implement Stack using Queues.js">
+    <entry file="file://$PROJECT_DIR$/349. Intersection of Two Arrays.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1624">
-          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        <state relative-caret-position="504">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/350. Intersection of Two Arrays II.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="699">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding />
         </state>
       </provider>
