@@ -9,6 +9,21 @@
 var intersection = function(nums1, nums2) {
     var res = [];
     var obj = {};
+    nums1.forEach(function (item) {
+        obj[item] = true;
+    });
+    nums2.forEach(function (item) {
+        if(obj[item] === true){
+            res.push(item);
+            obj[item] = false;
+        }
+    });
+    return res;
+};
+
+var intersection1 = function(nums1, nums2) {
+    var res = [];
+    var obj = {};
     for(var i=0; i < nums1.length; i++){
         if(obj[nums1[i]] === undefined){
             obj[nums1[i]] = true;
