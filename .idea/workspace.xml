@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2a6e0343-190c-447e-b06a-6c08b2bef16f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/349. Intersection of Two Arrays.js" afterPath="$PROJECT_DIR$/349. Intersection of Two Arrays.js" />
     </list>
     <ignored path="LeetCode-JS.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,19 +26,22 @@
       <file leaf-file-name="test.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            <state relative-caret-position="0">
+              <caret line="0" column="18" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="205. Isomorphic Strings.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/205. Isomorphic Strings.js">
+      <file leaf-file-name="141. Linked List Cycle.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/141. Linked List Cycle.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="29" selection-end-column="2" />
-              <folding />
+            <state relative-caret-position="560">
+              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <folding>
+                <element signature="e#42#168#0" expanded="false" />
+                <element signature="e#170#224#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -94,11 +96,13 @@
         <option value="$PROJECT_DIR$/232. Implement Queue using Stacks.js" />
         <option value="$PROJECT_DIR$/225. Implement Stack using Queues.js" />
         <option value="$PROJECT_DIR$/28. Implement strStr().js" />
-        <option value="$PROJECT_DIR$/test.js" />
         <option value="$PROJECT_DIR$/349. Intersection of Two Arrays.js" />
         <option value="$PROJECT_DIR$/350. Intersection of Two Arrays II.js" />
         <option value="$PROJECT_DIR$/160. Intersection of Two Linked Lists.js" />
         <option value="$PROJECT_DIR$/205. Isomorphic Strings.js" />
+        <option value="$PROJECT_DIR$/test.js" />
+        <option value="$PROJECT_DIR$/58. Length of Last Word.js" />
+        <option value="$PROJECT_DIR$/141. Linked List Cycle.js" />
       </list>
     </option>
   </component>
@@ -138,6 +142,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -159,7 +164,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -170,11 +174,8 @@
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="nodejs_interpreter_path" value="C:\Program Files\nodejs\node" />
   </component>
-  <component name="RunManager" selected="Node.js.205. Isomorphic Strings.js">
+  <component name="RunManager" selected="Node.js.58. Length of Last Word.js">
     <configuration default="false" name="test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="test.js" working-dir="$PROJECT_DIR$">
-      <method />
-    </configuration>
-    <configuration default="false" name="387. First Unique Character in a String.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="387. First Unique Character in a String.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
     <configuration default="false" name="202. Happy Number.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="202. Happy Number.js" working-dir="$PROJECT_DIR$">
@@ -184,6 +185,9 @@
       <method />
     </configuration>
     <configuration default="false" name="205. Isomorphic Strings.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="205. Isomorphic Strings.js" working-dir="$PROJECT_DIR$">
+      <method />
+    </configuration>
+    <configuration default="false" name="58. Length of Last Word.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="58. Length of Last Word.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -241,18 +245,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Node.js.test.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.387. First Unique Character in a String.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.202. Happy Number.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.350. Intersection of Two Arrays II.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.205. Isomorphic Strings.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.202. Happy Number.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.350. Intersection of Two Arrays II.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.205. Isomorphic Strings.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.58. Length of Last Word.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.205. Isomorphic Strings.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.350. Intersection of Two Arrays II.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.test.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.202. Happy Number.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.387. First Unique Character in a String.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.58. Length of Last Word.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.test.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.205. Isomorphic Strings.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.350. Intersection of Two Arrays II.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.202. Happy Number.js" />
       </list>
     </recent_temporary>
   </component>
@@ -286,18 +290,19 @@
       <workItem from="1477166544947" duration="4766000" />
       <workItem from="1477369884558" duration="1089000" />
       <workItem from="1477887482105" duration="1252000" />
-      <workItem from="1477955719803" duration="3115000" />
+      <workItem from="1477955719803" duration="4579000" />
+      <workItem from="1478044709355" duration="4002000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88767000" />
+    <option name="totallyTimeSpent" value="94233000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-16" y="-16" width="3232" height="1744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2146875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.073125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -333,21 +338,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/257. Binary Tree Paths.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="33" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/144. Binary Tree Preorder Traversal.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="448">
@@ -682,19 +672,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/205. Isomorphic Strings.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="29" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/58. Length of Last Word.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="18" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/141. Linked List Cycle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <element signature="e#42#168#0" expanded="false" />
+            <element signature="e#170#224#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
