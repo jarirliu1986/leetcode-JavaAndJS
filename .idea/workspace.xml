@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2a6e0343-190c-447e-b06a-6c08b2bef16f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Java/src/ConvertaNumbertoHexadecimal.java" afterPath="$PROJECT_DIR$/Java/src/ConvertaNumbertoHexadecimal.java" />
     </list>
     <ignored path="LeetCode-JS.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,18 +22,7 @@
     <favorites_list name="LeetCode-JS" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file leaf-file-name="test.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JavaScript/test.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-730">
-              <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="600" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -49,10 +37,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/278. First Bad Version.js" />
-        <option value="$PROJECT_DIR$/387. First Unique Character in a String.js" />
-        <option value="$PROJECT_DIR$/374. Guess Number Higher or Lower.java" />
-        <option value="$PROJECT_DIR$/202. Happy Number.js" />
         <option value="$PROJECT_DIR$/198. House Robber.js" />
         <option value="$PROJECT_DIR$/232. Implement Queue using Stacks.js" />
         <option value="$PROJECT_DIR$/225. Implement Stack using Queues.js" />
@@ -99,7 +83,11 @@
         <option value="$PROJECT_DIR$/Reverse Integer.js" />
         <option value="$PROJECT_DIR$/test.js" />
         <option value="$PROJECT_DIR$/7. Reverse Integer.js" />
+        <option value="$PROJECT_DIR$/Java/src/GuessGame.java" />
+        <option value="$PROJECT_DIR$/delete.js" />
+        <option value="$PROJECT_DIR$/Java/setsAnALine.js" />
         <option value="$PROJECT_DIR$/JavaScript/test.js" />
+        <option value="$PROJECT_DIR$/setsAnALine.js" />
       </list>
     </option>
   </component>
@@ -171,10 +159,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LeetCode-JS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LeetCode-JS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -185,10 +187,12 @@
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="nodejs_interpreter_path" value="C:\Program Files\nodejs\node" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Front-back-end\personal-Project\LeetCode-JS" />
+    </key>
+  </component>
   <component name="RunManager" selected="Node.js.test.js (1)">
-    <configuration default="false" name="342. Power of Four.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="342. Power of Four.js" working-dir="$PROJECT_DIR$">
-      <method />
-    </configuration>
     <configuration default="false" name="383. Ransom Note.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="383. Ransom Note.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
@@ -199,6 +203,9 @@
       <method />
     </configuration>
     <configuration default="false" name="test.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/JavaScript">
+      <method />
+    </configuration>
+    <configuration default="false" name="delete.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="delete.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -259,19 +266,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Node.js.test.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.342. Power of Four.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.383. Ransom Note.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.26. Remove Duplicates from Sorted Array.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.190. Reverse Bits.js" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.test.js (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.383. Ransom Note.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.26. Remove Duplicates from Sorted Array.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.190. Reverse Bits.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.test.js (1)" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.delete.js" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Node.js.test.js (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.190. Reverse Bits.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.26. Remove Duplicates from Sorted Array.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.383. Ransom Note.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.342. Power of Four.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.delete.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.190. Reverse Bits.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.26. Remove Duplicates from Sorted Array.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.383. Ransom Note.js" />
       </list>
     </recent_temporary>
   </component>
@@ -317,32 +324,39 @@
       <workItem from="1479176077741" duration="846000" />
       <workItem from="1479251419588" duration="5211000" />
       <workItem from="1479424322029" duration="2085000" />
+      <workItem from="1482906579280" duration="2380000" />
+      <workItem from="1482968760119" duration="928000" />
+      <workItem from="1483516681144" duration="212000" />
+      <workItem from="1483548626866" duration="1523000" />
+      <workItem from="1483744949269" duration="7593000" />
+      <workItem from="1483817741942" duration="8094000" />
+      <workItem from="1483841839003" duration="51000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="155008000" />
+    <option name="totallyTimeSpent" value="175789000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-16" y="-16" width="3232" height="1744" extended-state="7" />
-    <editor active="true" />
+    <frame x="-16" y="-16" width="3232" height="1744" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.139375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31707317" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.54843205" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3163763" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.54843205" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -363,9 +377,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/387. First Unique Character in a String.js" />
-    <entry file="file://$PROJECT_DIR$/374. Guess Number Higher or Lower.java" />
-    <entry file="file://$PROJECT_DIR$/202. Happy Number.js" />
     <entry file="file://$PROJECT_DIR$/198. House Robber.js" />
     <entry file="file://$PROJECT_DIR$/232. Implement Queue using Stacks.js" />
     <entry file="file://$PROJECT_DIR$/225. Implement Stack using Queues.js" />
@@ -413,11 +424,29 @@
     <entry file="file://$PROJECT_DIR$/Reverse Integer.js" />
     <entry file="file://$PROJECT_DIR$/test.js" />
     <entry file="file://$PROJECT_DIR$/7. Reverse Integer.js" />
+    <entry file="file://$PROJECT_DIR$/Java/src/GuessGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/delete.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setsAnALine.js" />
     <entry file="file://$PROJECT_DIR$/JavaScript/test.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-730">
-          <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
-          <folding />
+        <state relative-caret-position="643">
+          <caret line="42" column="9" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
