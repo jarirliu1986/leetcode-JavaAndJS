@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class GroupAnagrams {
-    public List<List<String>> groupAnagrams(String[] strs) {
+    public static List<List<String>> groupAnagrams(String[] strs) {
        
         HashMap<String, List<String>> map = new HashMap<>();
         for(String str : strs){
@@ -15,4 +15,5 @@ public class GroupAnagrams {
         }
         return new ArrayList<List<String>>(map.values());
     }
+
 }
