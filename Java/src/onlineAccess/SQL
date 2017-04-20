@@ -1,0 +1,26 @@
+create table transfers (
+
+    sender varchar not null,
+
+    recipient varchar not null,
+
+    date date not null,
+
+    amount integer not null
+
+);
+
+
+SELECT
+    t1.recipient
+FROM transfers AS t1
+WHERE (
+    SELECT COUNT(*)
+    FROM transfers t2
+    WHERE
+        t2.recipient = t1.recipient
+        AND t2.amount >= t1.amount
+) <= 3
+GROUP BY t1.recipient
+HAVING SUM(t1.amount) >= 1024
+ORDER BY t1.recipient;
